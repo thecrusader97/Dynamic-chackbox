@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Create dynamic CheckBox in PHP using MySQL database records</title>
+<title>Create dynamic CheckBox in PHP using MySQL </title>
 </head>
 
 <body>
